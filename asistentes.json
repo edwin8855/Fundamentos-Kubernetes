@@ -45,6 +45,16 @@
     "motivacion": "Apoyar y acompañar a la comunidad Cloud Native Medellín en su travesía por Kubernetes. 🏔️☕"
   },
   {
+    "github": "devdavco",
+    "nombre": "David Corrales",
+    "rol": "Desarrollador Fullstack Java",
+    "linkedin": "https://www.linkedin.com/in/juandavidcorrales/",
+    "redes": [],
+    "rango": "⛵ Marinero",
+    "puntos": 60,
+    "motivacion": "El conocimiento es la clave para mi avance tanto profesional como laboral."
+  },
+  {
     "github": "glgaviria64",
     "nombre": "Gloria Gaviria",
     "rol": "👩‍💻 Estudiante<br>Desarrolladora Jr",
@@ -163,16 +173,6 @@
     "rango": "⛵ Marinero",
     "puntos": 10,
     "motivacion": "Nunca volver a decir \"En mi local sí funcionaba\""
-  },
-  {
-    "github": "devdavco",
-    "nombre": "David Corrales",
-    "rol": "Desarrollador Fullstack Java",
-    "linkedin": "https://www.linkedin.com/in/juandavidcorrales/",
-    "redes": [],
-    "rango": "⛵ Marinero",
-    "puntos": 10,
-    "motivacion": "El conocimiento es la clave para mi avance tanto profesional como laboral."
   },
   {
     "github": "mateoqc123",
