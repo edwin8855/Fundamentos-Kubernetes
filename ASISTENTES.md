@@ -84,7 +84,7 @@ Si prefieres hacerlo con comandos de `git`, edita tu bloque en [`asistentes.json
 
 ---
 
-## 👥 Tabla de Posiciones de la Tripulación (35 Tripulantes)
+## 👥 Tabla de Posiciones de la Tripulación (36 Tripulantes)
 
 <!-- INICIO_TABLA_ASISTENTES -->
 | # | 👤 Tripulante | 💼 Rol / Especialidad | 🌐 Redes Profesionales | 🎖️ Rango y Progreso (XP) | 🎯 ¿Qué te motivó a unirte? |
@@ -124,6 +124,7 @@ Si prefieres hacerlo con comandos de `git`, edita tu bloque en [`asistentes.json
 | #33 | <img src="https://github.com/Camilogigom.png?size=50" width="32" height="32" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> **Camilo Giraldo** | Estudiante | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Camilogigom)<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcgiraldogo/) | ⛵ Marinero<br><sub>**10 XP** (Registro inicial)</sub> | Aprender sobre Docker y Kubernete. Aprovechadno al maximo estos cursos |
 | #34 | <img src="https://github.com/MateoOrozcoCano.png?size=50" width="32" height="32" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> **Mateo Orozco Cano** | Estudiante desarrollo de apps | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MateoOrozcoCano)<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-orozco-cano-21bb90437/) | ⛵ Marinero<br><sub>**10 XP** (Registro inicial)</sub> | Estoy en formación para ser un profesional integral y esto me ayuda demaciado. |
 | #35 | <img src="https://github.com/juanjosegonzalezrosales.png?size=50" width="32" height="32" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> **Juan José González Rosales** | Desarrollador Jr | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/juanjosegonzalezrosales)<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-josé-gonzález-rosales-40a4a8203?utm_source=share_via&utm_content=profile&utm_medium=member_android) | ⛵ Marinero<br><sub>**10 XP** (Registro inicial)</sub> | Aprender sobre contenedores y kubernetes con el ánimo de crecer profesionalmente. |
+| #36 | <img src="https://github.com/SirJulianM3003.png?size=50" width="32" height="32" style="border-radius: 50%; vertical-align: middle; margin-right: 8px;"> **Julián Esteban Madrid** | Desarrollador de Software | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SirJulianM3003) | ⛵ Marinero<br><sub>**10 XP** (Registro inicial)</sub> | Mejorar para poder acceder a mejores empleos |
 <!-- FIN_TABLA_ASISTENTES -->
 
 > [!TIP]
