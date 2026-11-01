@@ -123,11 +123,11 @@ Si no puedes instalar Docker Desktop o tu máquina no tiene suficiente memoria R
 ---
 
 <!-- INICIO_MOSAICO_TRIPULACION -->
-## 👥 Tripulación a Bordo y Ranking (36 Tripulantes)
+## 👥 Tripulación a Bordo y Ranking (37 Tripulantes)
 
 <div align="center">
 
-[![Tripulantes a Bordo](https://img.shields.io/badge/⛵_Tripulantes_a_Bordo-36-00C7B7?style=for-the-badge)](./ASISTENTES.md)
+[![Tripulantes a Bordo](https://img.shields.io/badge/⛵_Tripulantes_a_Bordo-37-00C7B7?style=for-the-badge)](./ASISTENTES.md)
 [![Registrarme en 30 seg](https://img.shields.io/badge/➕_¡Regístrate_Aquí!_(Formulario_Visual)-2ea44f?style=for-the-badge&logo=github)](https://github.com/edwinbermudez91/Fundamentos-Kubernetes/issues/new?template=registro-asistente.yml)
 [![Actualizar mis Datos](https://img.shields.io/badge/✏️_Actualizar_mis_Datos_o_Redes-f57c00?style=for-the-badge&logo=github)](https://github.com/edwinbermudez91/Fundamentos-Kubernetes/issues/new?template=registro-asistente.yml)
 [![Ver Ranking Completo](https://img.shields.io/badge/🏆_Ver_Tabla_de_Puntajes_y_Redes-326CE5?style=for-the-badge)](./ASISTENTES.md)
@@ -174,7 +174,7 @@ Si no puedes instalar Docker Desktop o tu máquina no tiene suficiente memoria R
   </tr>
 </table>
 
-### 🏆 Ranking de la Tripulación (36 Tripulantes)
+### 🏆 Ranking de la Tripulación (37 Tripulantes)
 
 <table>
   <tr>
@@ -437,6 +437,15 @@ Si no puedes instalar Docker Desktop o tu máquina no tiene suficiente memoria R
       <a href="https://github.com/SirJulianM3003" title="Julián Esteban Madrid (@SirJulianM3003) — 10 XP">
         <img src="https://github.com/SirJulianM3003.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="SirJulianM3003"/><br/>
         <sub><b>Julián Esteban</b></sub>
+      </a><br/>
+      <sub>⛵ Marinero • <b>10 XP</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.linkedin.com/in/edwinalexanderrg" title="Edwin Restrepo (@edwin8855) — 10 XP">
+        <img src="https://github.com/edwin8855.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="edwin8855"/><br/>
+        <sub><b>Edwin Restrepo</b></sub>
       </a><br/>
       <sub>⛵ Marinero • <b>10 XP</b></sub>
     </td>

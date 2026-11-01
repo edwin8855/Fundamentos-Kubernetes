@@ -405,5 +405,15 @@
     "rango": "⛵ Marinero",
     "puntos": 10,
     "motivacion": "Mejorar para poder acceder a mejores empleos"
+  },
+  {
+    "github": "edwin8855",
+    "nombre": "Edwin Restrepo",
+    "rol": "Consultor",
+    "linkedin": "https://www.linkedin.com/in/edwinalexanderrg",
+    "redes": [],
+    "rango": "⛵ Marinero",
+    "puntos": 10,
+    "motivacion": "Aprender a desplegar aplicaciones y aprovechar la oportunidad de la comunidad"
   }
 ]
